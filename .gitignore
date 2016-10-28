@@ -34,7 +34,7 @@
 # IntelliJ
 /out/
 /.idea/
-TxtOutput.iml
+Animals.iml
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
